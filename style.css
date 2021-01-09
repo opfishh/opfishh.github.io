@@ -2,6 +2,9 @@
     font-family: 'Noto Serif TC', serif;
 
 }
+html{
+    scroll-behavior: smooth;
+}
 .navbar-brand img{
     width: 90px;
     height: 90px;
