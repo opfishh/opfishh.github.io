@@ -1,0 +1,36 @@
+*{
+    font-family: 'Noto Serif TC', serif;
+
+}
+.navbar-brand img{
+    width: 90px;
+    height: 90px;
+}
+.bg-light{
+    background-color: white!important;
+}
+.container h1{
+    text-align: center;
+    margin:50px 0px;
+}
+.category{
+    padding-bottom: 10px;
+}
+.category-desc{
+    padding:50px;
+}
+.divider{
+    height: 1px;
+    border-bottom:1px solid rgb(243, 234, 234);
+    margin:40px 0;
+}
+.products{
+    background-color: rgb(221, 214, 214);
+    padding:40px 0px;
+}
+.form-group{
+    text-align: center;
+}
+.form-control{
+    margin: 30px 0px;
+}
